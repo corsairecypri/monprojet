@@ -6,7 +6,7 @@ html{
 
 header{
     height: 500px;
-    background-image: url(/images/mer.jpg);
+    background-image: url(images/mer.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

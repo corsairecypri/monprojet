@@ -1,0 +1,80 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+header{
+    height: 500px;
+    background-image: url(/images/mer.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 50px;
+}
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+
+}
+
+
+footer{
+    height:150px;
+    background-color: black;
+    color:#707070;
+}
+
+img{
+    width:300px;
+    margin: 10px;
+}
+
+.voy{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+.propos{
+    margin:25px;
+    text-align:center;
+    line-height: 25px;
+    font-size:20px;
+}
+
+.team{
+    height:100px;
+    display:inline;
+    align-items:center;
+    border-radius: 50%;
+}
+
+.tea{
+    width:200px
+}
+
+.vo{
+    display:flex;
+    justify-content: center;
+}
